@@ -467,7 +467,7 @@ $activeSessions = 3;
     }
 
     .hero-banner {
-      margin-top: -40px;
+      margin-top: 0px;
     }
   </style>
 </head>
